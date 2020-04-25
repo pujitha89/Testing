@@ -2,20 +2,20 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="12889" started-at="2020-04-20T15:48:42 BST" finished-at="2020-04-20T15:48:55 BST">
+  <suite name="Default suite" duration-ms="21551" started-at="2020-04-25T17:10:56 BST" finished-at="2020-04-25T17:11:18 BST">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="12889" started-at="2020-04-20T15:48:42 BST" finished-at="2020-04-20T15:48:55 BST">
+    <test name="Default test" duration-ms="21551" started-at="2020-04-25T17:10:56 BST" finished-at="2020-04-25T17:11:18 BST">
       <class name="address_book.Test_book">
-        <test-method status="PASS" signature="launch()[pri:0, instance:address_book.Test_book@6e0e048a]" name="launch" is-config="true" duration-ms="9472" started-at="2020-04-20T15:48:42 BST" finished-at="2020-04-20T15:48:51 BST">
+        <test-method status="PASS" signature="launch()[pri:0, instance:address_book.Test_book@6e0e048a]" name="launch" is-config="true" duration-ms="14236" started-at="2020-04-25T17:10:56 BST" finished-at="2020-04-25T17:11:10 BST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- launch -->
-        <test-method status="PASS" signature="verify_book()[pri:0, instance:address_book.Test_book@6e0e048a]" name="verify_book" duration-ms="3067" started-at="2020-04-20T15:48:51 BST" finished-at="2020-04-20T15:48:54 BST">
+        <test-method status="PASS" signature="verify_book()[pri:0, instance:address_book.Test_book@6e0e048a]" name="verify_book" duration-ms="2875" started-at="2020-04-25T17:11:10 BST" finished-at="2020-04-25T17:11:13 BST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verify_book -->
-        <test-method status="PASS" signature="close()[pri:0, instance:address_book.Test_book@6e0e048a]" name="close" is-config="true" duration-ms="288" started-at="2020-04-20T15:48:54 BST" finished-at="2020-04-20T15:48:55 BST">
+        <test-method status="PASS" signature="close()[pri:0, instance:address_book.Test_book@6e0e048a]" name="close" is-config="true" duration-ms="4377" started-at="2020-04-25T17:11:13 BST" finished-at="2020-04-25T17:11:18 BST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- close -->

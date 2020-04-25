@@ -6,6 +6,7 @@
       <class name="address_book.Test_book">
         <methods>
           <include name="launch"/>
+          <include name="close"/>
           <include name="verify_book"/>
         </methods>
       </class> <!-- address_book.Test_book -->
