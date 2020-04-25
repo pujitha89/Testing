@@ -17,7 +17,7 @@ public class Test_book {
     	 System.setProperty("webdriver.chrome.driver", "chromedriver.exe");
     	 driver= new ChromeDriver();
     	 driver.manage().window().maximize();
-    	 driver.get("http://3.84.28.138:8000/addressbook/");
+    	 driver.get("http://52.23.228.214:8000/addressbook/");
      }
      @Test
      public void verify_book()
